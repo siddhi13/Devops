@@ -1,5 +1,10 @@
 hello
 this is from master branch
+<<<<<<< HEAD
 this comment is from branch1 branch change 1
 
 this comment is branch1 edit 2
+=======
+
+this is from master branch edit 1
+>>>>>>> master edit 1
